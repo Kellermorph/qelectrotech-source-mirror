@@ -179,7 +179,6 @@ QString FileElementCollectionItem::localName(const ElementsLocation &location)
 	}
 	else if (isElement()) {
 		QString display_name = location.name();
-		// Schneide die Endung .qetmak für die Anzeige ab
 		if (display_name.endsWith(".qetmak")) {
 			display_name.remove(".qetmak");
 		}
@@ -216,7 +215,7 @@ QString FileElementCollectionItem::collectionPath() const
 		else if (m_path == QETApp::companyElementsDirN())
 			return "company://";
 		else if (m_path == macrosPath)
-			return "macros://"; // <-- NEU: Protokoll für Makros zuweisen
+			return "macros://"; //
 			else
 				return "custom://";
 	}

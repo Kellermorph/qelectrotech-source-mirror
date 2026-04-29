@@ -245,8 +245,6 @@ void DiagramEventAddMacro::addMacro(QPointF final_pos)
 	if (!diagram_node.isNull()) {
 		QDomElement cloned_node = diagram_node.cloneNode(true).toElement();
 
-		// Die fehlerhafte Offset-Addition wurde hier entfernt.
-		// target_pos ist einfach nur die Raster-Mausposition.
 		QPointF target_pos = final_pos;
 
 		DiagramContent pasted_content;
