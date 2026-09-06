@@ -5102,22 +5102,22 @@ Toutes valeurs autre que ‘Pas d’arrondi’ peut causer des erreurs de rendu 
     <message>
         <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="239"/>
         <source>rgb(%1, %2, %3)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="244"/>
         <source>Tolérance pour cette couleur</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="249"/>
         <source>Retirer cette couleur</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="260"/>
         <source>Cliquez sur l&apos;image pour ajouter une couleur. Ajustez la tolérance de chaque couleur avec son curseur, ou cliquez sur × pour la retirer.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="259"/>
