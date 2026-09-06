@@ -843,7 +843,7 @@ Note: These options DO NOT allow or block Auto Numberings, only their Update Pol
 <context>
     <name>ClickableImageLabel</name>
     <message>
-        <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="56"/>
+        <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="57"/>
         <source>Cliquez pour choisir une couleur</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1541,87 +1541,87 @@ Note: These options DO NOT allow or block Auto Numberings, only their Update Pol
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1108"/>
+        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1109"/>
         <source>une image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1367"/>
+        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1382"/>
         <source>Remplacer l&apos;image...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1370"/>
+        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1385"/>
         <source>Couleur transparente...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1373"/>
+        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1388"/>
         <source>Rogner...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1376"/>
+        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1391"/>
         <source>Miroir horizontal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1377"/>
+        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1392"/>
         <source>Miroir vertical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1381"/>
+        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1396"/>
         <source>Restaurer les proportions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1385"/>
+        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1400"/>
         <source>Propriétés...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1416"/>
+        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1431"/>
         <source>Selectionner une image...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1417"/>
+        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1432"/>
         <source>Image Files (*.png *.jpg *.jpeg *.bmp *.svg)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1424"/>
+        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1439"/>
         <source>Erreur</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1424"/>
+        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1439"/>
         <source>Impossible de charger l&apos;image.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1441"/>
+        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1456"/>
         <source>Remplacer une image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1484"/>
+        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1499"/>
         <source>Miroir horizontal d&apos;une image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1484"/>
+        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1499"/>
         <source>Miroir vertical d&apos;une image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1534"/>
+        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1548"/>
         <source>Définir une couleur transparente</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1628"/>
+        <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1642"/>
         <source>Rogner une image</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5075,33 +5075,38 @@ Toutes valeurs autre que ‘Pas d’arrondi’ peut causer des erreurs de rendu 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="117"/>
+        <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="118"/>
         <source>Image source</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="118"/>
+        <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="119"/>
         <source>Aperçu</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="134"/>
-        <source>Tolérance</source>
+        <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="239"/>
+        <source>rgb(%1, %2, %3)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="211"/>
-        <source>rgb(%1, %2, %3) -- cliquer pour retirer</source>
+        <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="244"/>
+        <source>Tolérance pour cette couleur</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="217"/>
+        <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="249"/>
+        <source>Retirer cette couleur</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="260"/>
+        <source>Cliquez sur l&apos;image pour ajouter une couleur. Ajustez la tolérance de chaque couleur avec son curseur, ou cliquez sur × pour la retirer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="259"/>
         <source>Cliquez sur l&apos;image pour choisir une couleur</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="218"/>
-        <source>Cliquez sur l&apos;image pour ajouter une couleur, ou sur une pastille pour la retirer</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
