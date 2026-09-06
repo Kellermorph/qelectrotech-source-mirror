@@ -853,7 +853,7 @@ Nota: Estas opções NÃO permitem ou bloqueiam a autonumeração, apenas a sua 
     <message>
         <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="57"/>
         <source>Cliquez pour choisir une couleur</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique para escolher uma cor</translation>
     </message>
 </context>
 <context>
@@ -1427,7 +1427,7 @@ Nota: Estas opções NÃO permitem ou bloqueiam a autonumeração, apenas a sua 
     <message>
         <location filename="../sources/diagramevent/diagrameventaddimage.cpp" line="94"/>
         <source>Clic : positionner à la taille d&apos;origine. Cliquer-glisser : positionner et redimensionner. Clic droit : pivoter de 90°. Ctrl+molette : ajuster la taille.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique: posicionar no tamanho original. Clicar e arrastar: posicionar e redimensionar. Clique direito: girar 90°. Ctrl+roda do mouse: ajustar o tamanho.</translation>
     </message>
 </context>
 <context>
@@ -1435,7 +1435,7 @@ Nota: Estas opções NÃO permitem ou bloqueiam a autonumeração, apenas a sua 
     <message>
         <location filename="../sources/diagramevent/diagrameventaddpath.cpp" line="92"/>
         <source>Clic: point anguleux. Cliquer-glisser: point courbe. Clic sur le premier point: fermer. Échap/Entrée: terminer. Clic droit: annuler le dernier point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique: ponto anguloso. Clicar e arrastar: ponto curvo. Clique no primeiro ponto: fechar. Esc/Enter: concluir. Clique direito: desfazer o último ponto.</translation>
     </message>
 </context>
 <context>
@@ -1443,37 +1443,37 @@ Nota: Estas opções NÃO permitem ou bloqueiam a autonumeração, apenas a sua 
     <message>
         <location filename="../sources/diagramevent/diagrameventaddshape.cpp" line="451"/>
         <source>Clic gauche : positionner le point de départ (Ctrl = position libre)</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique esquerdo: posicionar o ponto inicial (Ctrl = posição livre)</translation>
     </message>
     <message>
         <location filename="../sources/diagramevent/diagrameventaddshape.cpp" line="454"/>
         <source>Clic gauche : positionner le premier coin (Ctrl = point central, position libre)</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique esquerdo: posicionar o primeiro canto (Ctrl = ponto central, posição livre)</translation>
     </message>
     <message>
         <location filename="../sources/diagramevent/diagrameventaddshape.cpp" line="456"/>
         <source>Clic gauche : positionner le premier point (Ctrl = position libre)</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique esquerdo: posicionar o primeiro ponto (Ctrl = posição livre)</translation>
     </message>
     <message>
         <location filename="../sources/diagramevent/diagrameventaddshape.cpp" line="467"/>
         <source>Clic gauche : positionner le point final (Ctrl = position libre) ; clic droit : annuler</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique esquerdo: posicionar o ponto final (Ctrl = posição livre); clique direito: cancelar</translation>
     </message>
     <message>
         <location filename="../sources/diagramevent/diagrameventaddshape.cpp" line="469"/>
         <source>Clic gauche : positionner le coin opposé (Maj = carré, Ctrl = depuis le centre + position libre, Ctrl+Maj = carré centré) ; clic droit : annuler</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique esquerdo: posicionar o canto oposto (Shift = quadrado, Ctrl = a partir do centro + posição livre, Ctrl+Shift = quadrado centralizado); clique direito: cancelar</translation>
     </message>
     <message>
         <location filename="../sources/diagramevent/diagrameventaddshape.cpp" line="472"/>
         <source>Clic gauche : positionner le coin opposé (Maj = cercle, Ctrl = depuis le centre + position libre, Ctrl+Maj = cercle centré) ; clic droit : annuler</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique esquerdo: posicionar o canto oposto (Shift = círculo, Ctrl = a partir do centro + posição livre, Ctrl+Shift = círculo centralizado); clique direito: cancelar</translation>
     </message>
     <message>
         <location filename="../sources/diagramevent/diagrameventaddshape.cpp" line="475"/>
         <source>Clic gauche : point suivant ; double-clic ou Entrée : terminer ; clic droit : annuler le dernier point</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique esquerdo: próximo ponto; duplo clique ou Enter: concluir; clique direito: desfazer o último ponto</translation>
     </message>
 </context>
 <context>
@@ -1481,72 +1481,72 @@ Nota: Estas opções NÃO permitem ou bloqueiam a autonumeração, apenas a sua 
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="436"/>
         <source>redimensionner</source>
-        <translation type="unfinished"></translation>
+        <translation>redimensionar</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="436"/>
         <source>pivoter/incliner</source>
-        <translation type="unfinished"></translation>
+        <translation>girar/inclinar</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="452"/>
         <source>Cliquer : mode %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique: modo %1</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="490"/>
         <source>Glisser un coin/bord : redimensionner (Ctrl = depuis le centre, Maj = conserver les proportions)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste um canto/borda: redimensionar (Ctrl = a partir do centro, Shift = manter proporções)</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="491"/>
         <source>Glisser un coin : pivoter (Maj = par pas de 15°) ; glisser un bord : incliner (Maj = par pas de 15°) ; point rouge : déplacer le centre de rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste um canto: girar (Shift = em passos de 15°); arraste uma borda: inclinar (Shift = em passos de 15°); ponto vermelho: mover o centro de rotação</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="492"/>
         <source> -- %1 : mode %2</source>
-        <translation type="unfinished"></translation>
+        <translation> -- %1: modo %2</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="492"/>
         <source>Cliquer</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="559"/>
         <source>Glisser : redimensionner (Maj = conserver les proportions, Ctrl = depuis le centre)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste: redimensionar (Shift = manter proporções, Ctrl = a partir do centro)</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="560"/>
         <source>Glisser : pivoter (Maj = par pas de 15°)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste: girar (Shift = em passos de 15°)</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="561"/>
         <source>Glisser : incliner (Maj = par pas de 15°)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste: inclinar (Shift = em passos de 15°)</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="562"/>
         <source>Glisser : déplacer le centre de rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste: mover o centro de rotação</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="831"/>
         <source>Déplacer le centre de rotation d&apos;une image</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover o centro de rotação de uma imagem</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="841"/>
         <source>Modifier une image</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar uma imagem</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1028"/>
         <source>Restaurer les proportions d&apos;une image</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurar as proporções de uma imagem</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1109"/>
@@ -1556,37 +1556,37 @@ Nota: Estas opções NÃO permitem ou bloqueiam a autonumeração, apenas a sua 
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1382"/>
         <source>Remplacer l&apos;image...</source>
-        <translation type="unfinished"></translation>
+        <translation>Substituir a imagem...</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1385"/>
         <source>Couleur transparente...</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor transparente...</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1388"/>
         <source>Rogner...</source>
-        <translation type="unfinished"></translation>
+        <translation>Recortar...</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1391"/>
         <source>Miroir horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Espelhar horizontalmente</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1392"/>
         <source>Miroir vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Espelhar verticalmente</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1396"/>
         <source>Restaurer les proportions</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurar proporções</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1400"/>
         <source>Propriétés...</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriedades...</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1431"/>
@@ -1596,7 +1596,7 @@ Nota: Estas opções NÃO permitem ou bloqueiam a autonumeração, apenas a sua 
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1432"/>
         <source>Image Files (*.png *.jpg *.jpeg *.bmp *.svg)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivos de imagem (*.png *.jpg *.jpeg *.bmp *.svg)</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1439"/>
@@ -1611,27 +1611,27 @@ Nota: Estas opções NÃO permitem ou bloqueiam a autonumeração, apenas a sua 
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1456"/>
         <source>Remplacer une image</source>
-        <translation type="unfinished"></translation>
+        <translation>Substituir uma imagem</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1499"/>
         <source>Miroir horizontal d&apos;une image</source>
-        <translation type="unfinished"></translation>
+        <translation>Espelhamento horizontal de uma imagem</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1499"/>
         <source>Miroir vertical d&apos;une image</source>
-        <translation type="unfinished"></translation>
+        <translation>Espelhamento vertical de uma imagem</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1548"/>
         <source>Définir une couleur transparente</source>
-        <translation type="unfinished"></translation>
+        <translation>Definir uma cor transparente</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/diagramimageitem.cpp" line="1642"/>
         <source>Rogner une image</source>
-        <translation type="unfinished"></translation>
+        <translation>Recortar uma imagem</translation>
     </message>
 </context>
 <context>
@@ -5021,12 +5021,12 @@ Qualquer valor diferente de ‘Sem arredondamento’ pode causar erros na render
     <message>
         <location filename="../sources/ui/imagecropdialog.cpp" line="257"/>
         <source>Rogner l&apos;image</source>
-        <translation type="unfinished"></translation>
+        <translation>Recortar a imagem</translation>
     </message>
     <message>
         <location filename="../sources/ui/imagecropdialog.cpp" line="261"/>
         <source>Faites glisser les poignées, ou l&apos;intérieur du cadre, pour ajuster la zone à conserver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste as alças, ou o interior do quadro, para ajustar a área a ser mantida.</translation>
     </message>
     <message>
         <location filename="../sources/ui/imagecropdialog.cpp" line="264"/>
@@ -5036,7 +5036,7 @@ Qualquer valor diferente de ‘Sem arredondamento’ pode causar erros na render
     <message>
         <location filename="../sources/ui/imagecropdialog.cpp" line="265"/>
         <source>Revenir à l&apos;image complète, sans rognage</source>
-        <translation type="unfinished"></translation>
+        <translation>Voltar à imagem completa, sem recorte</translation>
     </message>
 </context>
 <context>
@@ -5055,13 +5055,13 @@ Qualquer valor diferente de ‘Sem arredondamento’ pode causar erros na render
         <location filename="../sources/ui/imagepropertieswidget.ui" line="30"/>
         <location filename="../sources/ui/imagepropertieswidget.ui" line="66"/>
         <source> %</source>
-        <translation type="unfinished"></translation>
+        <translation> %</translation>
     </message>
     <message>
         <location filename="../sources/ui/imagepropertieswidget.ui" line="46"/>
         <location filename="../sources/ui/imagepropertieswidget.cpp" line="238"/>
         <source>Verrouillé : modifier la largeur ou la hauteur ajuste l&apos;autre pour conserver les proportions. Cliquer pour déverrouiller.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bloqueado: alterar a largura ou a altura ajusta a outra para manter as proporções. Clique para desbloquear.</translation>
     </message>
     <message>
         <location filename="../sources/ui/imagepropertieswidget.ui" line="59"/>
@@ -5071,29 +5071,29 @@ Qualquer valor diferente de ‘Sem arredondamento’ pode causar erros na render
     <message>
         <location filename="../sources/ui/imagepropertieswidget.ui" line="82"/>
         <source>Restaurer les proportions</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurar proporções</translation>
     </message>
     <message>
         <location filename="../sources/ui/imagepropertieswidget.ui" line="89"/>
         <source>Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Ângulo</translation>
     </message>
     <message>
         <location filename="../sources/ui/imagepropertieswidget.ui" line="96"/>
         <location filename="../sources/ui/imagepropertieswidget.ui" line="119"/>
         <location filename="../sources/ui/imagepropertieswidget.ui" line="142"/>
         <source> °</source>
-        <translation type="unfinished"></translation>
+        <translation> °</translation>
     </message>
     <message>
         <location filename="../sources/ui/imagepropertieswidget.ui" line="112"/>
         <source>Inclinaison X</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclinação X</translation>
     </message>
     <message>
         <location filename="../sources/ui/imagepropertieswidget.ui" line="135"/>
         <source>Inclinaison Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclinação Y</translation>
     </message>
     <message>
         <location filename="../sources/ui/imagepropertieswidget.ui" line="158"/>
@@ -5103,28 +5103,28 @@ Qualquer valor diferente de ‘Sem arredondamento’ pode causar erros na render
     <message>
         <location filename="../sources/ui/imagepropertieswidget.cpp" line="188"/>
         <source>Modifier la largeur d&apos;une image</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar a largura de uma imagem</translation>
     </message>
     <message>
         <location filename="../sources/ui/imagepropertieswidget.cpp" line="189"/>
         <source>Modifier la hauteur d&apos;une image</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar a altura de uma imagem</translation>
     </message>
     <message>
         <location filename="../sources/ui/imagepropertieswidget.cpp" line="190"/>
         <source>Modifier l&apos;angle d&apos;une image</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar o ângulo de uma imagem</translation>
     </message>
     <message>
         <location filename="../sources/ui/imagepropertieswidget.cpp" line="191"/>
         <location filename="../sources/ui/imagepropertieswidget.cpp" line="192"/>
         <source>Modifier l&apos;inclinaison d&apos;une image</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar a inclinação de uma imagem</translation>
     </message>
     <message>
         <location filename="../sources/ui/imagepropertieswidget.cpp" line="239"/>
         <source>Déverrouillé : largeur et hauteur peuvent être modifiées indépendamment. Cliquer pour verrouiller.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desbloqueado: largura e altura podem ser alteradas independentemente. Clique para bloquear.</translation>
     </message>
 </context>
 <context>
@@ -5132,12 +5132,12 @@ Qualquer valor diferente de ‘Sem arredondamento’ pode causar erros na render
     <message>
         <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="101"/>
         <source>Couleur transparente</source>
-        <translation type="unfinished"></translation>
+        <translation>Cor transparente</translation>
     </message>
     <message>
         <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="118"/>
         <source>Image source</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagem de origem</translation>
     </message>
     <message>
         <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="119"/>
@@ -5147,27 +5147,27 @@ Qualquer valor diferente de ‘Sem arredondamento’ pode causar erros na render
     <message>
         <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="239"/>
         <source>rgb(%1, %2, %3)</source>
-        <translation type="unfinished"></translation>
+        <translation>rgb(%1, %2, %3)</translation>
     </message>
     <message>
         <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="244"/>
         <source>Tolérance pour cette couleur</source>
-        <translation type="unfinished"></translation>
+        <translation>Tolerância para esta cor</translation>
     </message>
     <message>
         <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="249"/>
         <source>Retirer cette couleur</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover esta cor</translation>
     </message>
     <message>
         <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="260"/>
         <source>Cliquez sur l&apos;image pour ajouter une couleur. Ajustez la tolérance de chaque couleur avec son curseur, ou cliquez sur × pour la retirer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique na imagem para adicionar uma cor. Ajuste a tolerância de cada cor com seu controle deslizante, ou clique em × para removê-la.</translation>
     </message>
     <message>
         <location filename="../sources/ui/imagetransparentcolordialog.cpp" line="259"/>
         <source>Cliquez sur l&apos;image pour choisir une couleur</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique na imagem para escolher uma cor</translation>
     </message>
 </context>
 <context>
@@ -8071,7 +8071,7 @@ Opções disponíveis:
     <message>
         <location filename="../sources/qetdiagrameditor.cpp" line="745"/>
         <source>Ajouter une courbe</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar uma curva</translation>
     </message>
     <message>
         <location filename="../sources/qetdiagrameditor.cpp" line="746"/>
@@ -8116,7 +8116,7 @@ Opções disponíveis:
     <message>
         <location filename="../sources/qetdiagrameditor.cpp" line="757"/>
         <source>Ajoute une courbe de Bézier sur le folio actuel</source>
-        <translation type="unfinished"></translation>
+        <translation>Adiciona uma curva de Bézier ao fólio atual</translation>
     </message>
     <message>
         <location filename="../sources/qetdiagrameditor.cpp" line="758"/>
@@ -11478,7 +11478,7 @@ Faça o download seguindo o link abaixo e descompacte-o na pasta de instalação
     <message>
         <location filename="../sources/undocommand/promoteshapecommand.cpp" line="26"/>
         <source>Transformer %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Transformar %1</translation>
     </message>
 </context>
 <context>
@@ -11540,52 +11540,52 @@ Adicione uma nova tabela ou ajuste a tabela existente para exibir todas as infor
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="866"/>
         <source>Déformer une courbe</source>
-        <translation type="unfinished"></translation>
+        <translation>Deformar uma curva</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1071"/>
         <source>Nœud le plus proche</source>
-        <translation type="unfinished"></translation>
+        <translation>Nó mais próximo</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1072"/>
         <source>Lisse</source>
-        <translation type="unfinished"></translation>
+        <translation>Suave</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1073"/>
         <source>Symétrique</source>
-        <translation type="unfinished"></translation>
+        <translation>Simétrico</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1074"/>
         <source>Anguleux</source>
-        <translation type="unfinished"></translation>
+        <translation>Anguloso</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1093"/>
         <source>Supprimer le nœud le plus proche</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir o nó mais próximo</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1100"/>
         <source>Convertir en polyligne</source>
-        <translation type="unfinished"></translation>
+        <translation>Converter em polilinha</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1104"/>
         <source>Miroir horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Espelhar horizontalmente</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1105"/>
         <source>Miroir vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Espelhar verticalmente</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1110"/>
         <source>Propriétés...</source>
-        <translation type="unfinished"></translation>
+        <translation>Propriedades...</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1179"/>
@@ -11595,147 +11595,147 @@ Adicione uma nova tabela ou ajuste a tabela existente para exibir todas as infor
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1180"/>
         <source>Coins arrondis</source>
-        <translation type="unfinished"></translation>
+        <translation>Cantos arredondados</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1181"/>
         <source>Édition des nœuds</source>
-        <translation type="unfinished"></translation>
+        <translation>Edição de nós</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1182"/>
         <source>Rotation/Inclinaison</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotação/Inclinação</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1200"/>
         <source>Cliquer : mode %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Clique: modo %1</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1280"/>
         <source>Glisser un coin/bord : redimensionner (Ctrl = depuis le centre, Maj = proportions, Alt = détacher en polyligne)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste um canto/borda: redimensionar (Ctrl = a partir do centro, Shift = proporções, Alt = separar em polilinha)</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1283"/>
         <source> ; point turquoise : arc</source>
-        <translation type="unfinished"></translation>
+        <translation> ; ponto turquesa: arco</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1287"/>
         <source>Glisser une extrémité : la déplacer</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste uma extremidade: movê-la</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1291"/>
         <source>Glisser un point : le déplacer</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste um ponto: movê-lo</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1296"/>
         <source>Glisser le point violet : arrondir les coins</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste o ponto roxo: arredondar os cantos</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1300"/>
         <source>Glisser une poignée ou la courbe : déformer (Alt = briser la tangente) ; Alt+glisser un point anguleux : créer des poignées ; clic droit : menu du nœud le plus proche</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste uma alça ou a curva: deformar (Alt = quebrar a tangente); Alt+arrastar um ponto anguloso: criar alças; clique direito: menu do nó mais próximo</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1311"/>
         <source>une extrémité</source>
-        <translation type="unfinished"></translation>
+        <translation>uma extremidade</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1312"/>
         <source>un coin</source>
-        <translation type="unfinished"></translation>
+        <translation>um canto</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1313"/>
         <source>un point</source>
-        <translation type="unfinished"></translation>
+        <translation>um ponto</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1314"/>
         <source>Glisser %1 : rotation (Maj = 15°)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arrastar %1: rotação (Shift = 15°)</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1316"/>
         <source> ; un bord : inclinaison</source>
-        <translation type="unfinished"></translation>
+        <translation> ; uma borda: inclinação</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1317"/>
         <source> ; point rouge : glisser pour repositionner le centre de rotation</source>
-        <translation type="unfinished"></translation>
+        <translation> ; ponto vermelho: arraste para reposicionar o centro de rotação</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1329"/>
         <source> (Ctrl pendant le glissement = position libre, sans accrochage à la grille)</source>
-        <translation type="unfinished"></translation>
+        <translation> (Ctrl durante o arraste = posição livre, sem ajuste à grade)</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1330"/>
         <source> — Cliquer : mode %1</source>
-        <translation type="unfinished"></translation>
+        <translation> — Clique: modo %1</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1360"/>
         <source>Glisser : déplacer ce point</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste: mover este ponto</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1361"/>
         <source>Glisser : redimensionner (Ctrl = depuis le centre + position libre, Maj = proportions</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste: redimensionar (Ctrl = a partir do centro + posição livre, Shift = proporções</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1363"/>
         <source>, Alt = détacher en polyligne</source>
-        <translation type="unfinished"></translation>
+        <translation>, Alt = separar em polilinha</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1368"/>
         <source>Glisser : rotation (Ctrl = position libre, Maj = 15°)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste: rotação (Ctrl = posição livre, Shift = 15°)</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1370"/>
         <source>Glisser : inclinaison (Ctrl = position libre, Maj = 15°)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste: inclinação (Ctrl = posição livre, Shift = 15°)</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1372"/>
         <source>Glisser : repositionner le centre de rotation (Ctrl = position libre)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste: reposicionar o centro de rotação (Ctrl = posição livre)</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1374"/>
         <source>Glisser : arrondir les coins (Ctrl = position libre)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste: arredondar os cantos (Ctrl = posição livre)</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1376"/>
         <source>Glisser : ajuster l&apos;arc (Ctrl = position libre, Maj = 15°)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste: ajustar o arco (Ctrl = posição livre, Shift = 15°)</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1379"/>
         <source>Glisser : déplacer le point (Ctrl = position libre</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste: mover o ponto (Ctrl = posição livre</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1381"/>
         <source>, Alt = créer des poignées</source>
-        <translation type="unfinished"></translation>
+        <translation>, Alt = criar alças</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1387"/>
         <source>Glisser : déformer la courbe (Ctrl = position libre, Alt = briser la tangente)</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraste: deformar a curva (Ctrl = posição livre, Alt = quebrar a tangente)</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1694"/>
@@ -11750,42 +11750,42 @@ Adicione uma nova tabela ou ajuste a tabela existente para exibir todas as infor
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1896"/>
         <source>Ajouter un point à une courbe</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar um ponto a uma curva</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1925"/>
         <source>Supprimer un point d&apos;une courbe</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir um ponto de uma curva</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="1953"/>
         <source>Convertir %1 en polyligne</source>
-        <translation type="unfinished"></translation>
+        <translation>Converter %1 em polilinha</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="2031"/>
         <source>Miroir impossible : inclinaison trop extrême pour cette forme</source>
-        <translation type="unfinished"></translation>
+        <translation>Espelhamento impossível: inclinação extrema demais para esta forma</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="2046"/>
         <source>Miroir horizontal de %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Espelhamento horizontal de %1</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="2046"/>
         <source>Miroir vertical de %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Espelhamento vertical de %1</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="2119"/>
         <source>Modifier le type d&apos;un nœud</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar o tipo de um nó</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="2575"/>
         <source>Deplacer le centre de rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Mover o centro de rotação</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="2634"/>
@@ -11810,7 +11810,7 @@ Adicione uma nova tabela ou ajuste a tabela existente para exibir todas as infor
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="2981"/>
         <source>un arc</source>
-        <translation type="unfinished"></translation>
+        <translation>um arco</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="2982"/>
@@ -11820,7 +11820,7 @@ Adicione uma nova tabela ou ajuste a tabela existente para exibir todas as infor
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="2983"/>
         <source>une courbe</source>
-        <translation type="unfinished"></translation>
+        <translation>uma curva</translation>
     </message>
     <message>
         <location filename="../sources/qetgraphicsitem/qetshapeitem.cpp" line="2984"/>
@@ -12825,7 +12825,7 @@ Os outros campos não são usados.</translation>
     <message>
         <location filename="../sources/ui/shapegraphicsitempropertieswidget.ui" line="20"/>
         <source>Géométrie</source>
-        <translation type="unfinished"></translation>
+        <translation>Geometria</translation>
     </message>
     <message>
         <location filename="../sources/ui/shapegraphicsitempropertieswidget.ui" line="26"/>
@@ -12842,12 +12842,12 @@ Os outros campos não são usados.</translation>
     <message>
         <location filename="../sources/ui/shapegraphicsitempropertieswidget.ui" line="66"/>
         <source>Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Ângulo</translation>
     </message>
     <message>
         <location filename="../sources/ui/shapegraphicsitempropertieswidget.ui" line="82"/>
         <source> °</source>
-        <translation type="unfinished"></translation>
+        <translation> °</translation>
     </message>
     <message>
         <location filename="../sources/ui/shapegraphicsitempropertieswidget.ui" line="205"/>
@@ -12927,7 +12927,7 @@ Os outros campos não são usados.</translation>
     <message>
         <location filename="../sources/ui/shapegraphicsitempropertieswidget.ui" line="305"/>
         <source>Forme fermée</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma fechada</translation>
     </message>
     <message>
         <location filename="../sources/ui/shapegraphicsitempropertieswidget.h" line="50"/>
@@ -12937,17 +12937,17 @@ Os outros campos não são usados.</translation>
     <message>
         <location filename="../sources/ui/shapegraphicsitempropertieswidget.cpp" line="183"/>
         <source>Modifier la longueur d&apos;une ligne</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar o comprimento de uma linha</translation>
     </message>
     <message>
         <location filename="../sources/ui/shapegraphicsitempropertieswidget.cpp" line="202"/>
         <source>Modifier la taille d&apos;une forme</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar o tamanho de uma forma</translation>
     </message>
     <message>
         <location filename="../sources/ui/shapegraphicsitempropertieswidget.cpp" line="215"/>
         <source>Modifier l&apos;angle d&apos;une forme</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar o ângulo de uma forma</translation>
     </message>
     <message>
         <location filename="../sources/ui/shapegraphicsitempropertieswidget.cpp" line="236"/>
@@ -12978,17 +12978,17 @@ Os outros campos não são usados.</translation>
     <message>
         <location filename="../sources/ui/shapegraphicsitempropertieswidget.cpp" line="433"/>
         <source>Longueur</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprimento</translation>
     </message>
     <message>
         <location filename="../sources/ui/shapegraphicsitempropertieswidget.cpp" line="442"/>
         <source>Rayon X</source>
-        <translation type="unfinished"></translation>
+        <translation>Raio X</translation>
     </message>
     <message>
         <location filename="../sources/ui/shapegraphicsitempropertieswidget.cpp" line="443"/>
         <source>Rayon Y</source>
-        <translation type="unfinished"></translation>
+        <translation>Raio Y</translation>
     </message>
 </context>
 <context>
